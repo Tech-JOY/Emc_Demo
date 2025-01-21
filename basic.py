@@ -1,6 +1,6 @@
 # Basics
 # 4/1/25
-
+# It is for practical Demo_1
 '''a = input()
 b = input()
 print(a)
